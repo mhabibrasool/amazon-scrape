@@ -1,0 +1,12 @@
+#### -*- This file contains textual information.
+January 22, 2024
+
+# amazon.com is an e-commerce company that provide retail product of wide range margin.
+ It is good source of data to research product trend.
+
+ This program scrape
+    1. Product title
+    2. Stars given to that product
+    3. Number of Reviews given to that product
+    4. Price of the product
+
